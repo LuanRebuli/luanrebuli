@@ -1,4 +1,6 @@
-### Hello! I am Luan de Sordi Rebuli 🤙 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px">
+### Hello! I am Luan de Sordi Rebuli 🤙 
+E aí. Podem me chamar de Luan e tenho 16 anos, sim, sou muito jovem. Mas adoro desenvolver desde cedo, comecei com minecraft programando em JAVA e sim sofri muito, mas foi uma experiência muito legal e depois tive algumas experiências em outros jogos e decidi me aprofundar na programação e hoje em dia busco todos os dias novas experiências e aprender cada dia mais..
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan.rebuli/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-de-sordi-rebuli-8ab545219/)
