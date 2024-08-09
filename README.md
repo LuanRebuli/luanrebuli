@@ -1,10 +1,5 @@
 ### Hello! I am Luan de Sordi Rebuli 🤙 
-Olá, me chamo Luan de Sordi Rebuli e tenho 17 anos. Sim, sou
-muito jovem, mas adoro desenvolver desde cedo. Comecei com
-Minecraft, programando em Java, e sim, sofri muito, mas foi uma
-experiência muito legal. Depois, tive algumas experiências em
-outros jogos e decidi me aprofundar na programação. Hoje em dia,
-busco todos os dias novas experiências e aprendo cada dia mais.
+Olá, tenho 17 anos. Sim, sou muito jovem, mas adoro desenvolver desde cedo. Comecei com Minecraft, programando em Java, e sim, sofri muito, mas foi uma experiência muito legal. Depois, tive algumas experiências em outros jogos em Lua e decidi me aprofundar na programação na parte Web - Front-end. Atualmente, atuo como desenvolvedor front-end, construindo interfaces dinâmicas e responsivas com React JS, otimizadas com Vite e Next JS e estilizadas com Styled Components ou TailwindCSS.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan.rebuli/)
