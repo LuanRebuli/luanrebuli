@@ -1,5 +1,7 @@
 ### Hello! I am Luan de Sordi Rebuli 🤙 
-Olá, tenho 17 anos. Sim, sou muito jovem, mas adoro desenvolver desde cedo. Comecei com Minecraft, programando em Java, e sim, sofri muito, mas foi uma experiência muito legal. Depois, tive algumas experiências em outros jogos em Lua e decidi me aprofundar na programação na parte Web - Front-end. Atualmente, atuo como desenvolvedor front-end, construindo interfaces dinâmicas e responsivas com React JS, otimizadas com Vite e Next JS e estilizadas com Styled Components ou TailwindCSS.
+Olá! Sou Luan, desenvolvedor full stack com paixão pela programação desde cedo, começando aos 10 anos ao explorar o mundo dos códigos com Minecraft em Java. Desde então, a programação deixou de ser apenas um hobby e se tornou minha escolha de carreira.
+
+Atualmente, desenvolvo front-end com React JS, usando ferramentas como Vite e Next JS para otimização, além de estilizar com Styled Components e TailwindCSS. No back-end, tenho experiência em Node.js, Express, MongoDB e PostgreSQL, onde construo aplicações robustas e escaláveis. Estou em busca de oportunidades para aplicar e expandir minhas habilidades, colaborar com soluções inovadoras e crescer profissionalmente.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan.rebuli/)
