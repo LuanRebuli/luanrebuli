@@ -2,6 +2,7 @@
 Olá! Sou Luan, desenvolvedor full stack com paixão pela programação desde cedo, começando aos 10 anos ao explorar o mundo dos códigos com Minecraft em Java. Desde então, a programação deixou de ser apenas um hobby e se tornou minha escolha de carreira.
 
 Atualmente, desenvolvo front-end com React JS, usando ferramentas como Vite e Next JS para otimização, além de estilizar com Styled Components e TailwindCSS. No back-end, tenho experiência em Node.js, Express, MongoDB e PostgreSQL, onde construo aplicações robustas e escaláveis. Estou em busca de oportunidades para aplicar e expandir minhas habilidades, colaborar com soluções inovadoras e crescer profissionalmente.
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan.rebuli/)
