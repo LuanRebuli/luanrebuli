@@ -28,15 +28,15 @@ Atualmente, desenvolvo front-end com React JS, usando ferramentas como Vite e Ne
   <img align="center" alt="vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
   <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   <img align="center" alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="postgressql" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql">
 </div>
 
 ### Languages I'm Studying
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="reactnative" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img align="center" alt="postgressql" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql">
 </div>
 
 
