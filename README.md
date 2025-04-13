@@ -3,7 +3,6 @@ Olá! Sou Luan, desenvolvedor full stack com paixão pela programação desde ce
 
 Atualmente, desenvolvo front-end com React JS, usando ferramentas como Vite e Next JS para otimização, além de estilizar com Styled Components e TailwindCSS. No back-end, tenho experiência em Node.js, Express, MongoDB e PostgreSQL, onde construo aplicações robustas e escaláveis. Estou em busca de oportunidades para aplicar e expandir minhas habilidades, colaborar com soluções inovadoras e crescer profissionalmente.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan.rebuli/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-de-sordi-rebuli-8ab545219/)
@@ -38,6 +37,11 @@ Atualmente, desenvolvo front-end com React JS, usando ferramentas como Vite e Ne
 <div style="display: inline_block"><br/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=61DAFB">
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
 
