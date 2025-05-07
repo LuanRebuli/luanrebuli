@@ -1,3 +1,4 @@
+![](./profile-3d-contrib/profile-green-animate.svg)
 ### Hello! I am Luan de Sordi Rebuli 🤙 
 Olá! Sou Luan, desenvolvedor full stack com paixão pela programação desde cedo, começando aos 10 anos ao explorar o mundo dos códigos com Minecraft em Java. Desde então, a programação deixou de ser apenas um hobby e se tornou minha escolha de carreira.
 
