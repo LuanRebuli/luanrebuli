@@ -1,6 +1,6 @@
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-##👋 Olá! Eu sou Luan de Sordi Rebuli
+👋 Olá! Eu sou Luan de Sordi Rebuli
 Sou um desenvolvedor full stack apaixonado por programação desde cedo — comecei aos 10 anos explorando o mundo dos códigos com Minecraft em Java, e desde então a tecnologia se tornou meu caminho profissional.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan.rebuli/)
