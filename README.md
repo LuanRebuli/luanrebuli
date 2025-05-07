@@ -1,4 +1,5 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
+
 ##👋 Olá! Eu sou Luan de Sordi Rebuli
 Sou um desenvolvedor full stack apaixonado por programação desde cedo — comecei aos 10 anos explorando o mundo dos códigos com Minecraft em Java, e desde então a tecnologia se tornou meu caminho profissional.
 
@@ -7,7 +8,7 @@ Sou um desenvolvedor full stack apaixonado por programação desde cedo — come
 
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,java,lua,css,html,react,next,vite,tailwind,nodejs,nextjs,express,next,docker,figma,github,jest,shadcn,linux,postman,httpie,styledcomponents,vercel,mongodb,postgres," />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,java,lua,css,html,react,next,vite,tailwind,nodejs,nextjs,express,next,docker,figma,github,jest,linux,postman,styledcomponents,vercel,mongodb,postgres," />
 </a>
   <br />
 
@@ -21,9 +22,5 @@ Sou um desenvolvedor full stack apaixonado por programação desde cedo — come
   
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
 
 
