@@ -11,31 +11,41 @@
 ```
 🏄 Surfista & dev full stack de Pontal do Sul, PR
 🚀 Construo produtos reais — do deploy ao pagamento
-🎯 Foco: TypeScript, React, Node.js, AWS, PostgreSQL
+☕ Comecei aos 10 anos modando Minecraft em Java. Nunca parei.
 ```
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan.rebuli/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanrebuli/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://uarapoint.com)
 
 ---
 
 ### `> ls ./projects`
 
-| Projeto | Status | O que é |
-|---------|--------|---------|
-| **[Maré Decorações Náuticas](https://maredecoracoesnautica.com.br)** | `🟢 LIVE` | E-commerce próprio de decoração náutica — Next.js, MercadoPago, Melhor Envio |
-| **[Uarapoint](https://uarapoint.com)** | `🟡 BETA` | PWA de previsão de surf para o litoral do Paraná com score proprietário |
-| **Corre** | `🔵 DEV` | SaaS de coaching de corrida com IA — NestJS, React Native, PostgreSQL |
+🟢 **[Maré Decorações Náuticas](https://maredecoracoesnautica.com.br)** — `LIVE`
+> E-commerce que eu co-fundei e construí do zero. Pagamentos reais com MercadoPago,
+> frete integrado com Melhor Envio, painel admin com dashboards financeiros.
+> Next.js · Node.js · PostgreSQL · Cloudinary · Railway
+
+🟡 **[Uarapoint](https://uarapoint.com)** — `BETA`
+> PWA de previsão de surf pro litoral do Paraná. Sistema de score proprietário
+> (Uara Score™) com IA adaptativa que aprende com as condições locais.
+> Construí porque nenhuma ferramenta existente serve pra quem surfa aqui.
+> React · TypeScript · Node.js · PostgreSQL · Docker
+
+🔵 **Corre** — `DEV`
+> SaaS de coaching de corrida com IA em português brasileiro.
+> NestJS · React Native · Expo · PostgreSQL · Prisma · Redis
 
 ---
 
 ### `> cat ./stack.txt`
 
-```
-frontend:  React · Next.js · React Native · TypeScript · Tailwind CSS
-backend:   Node.js · Express · NestJS · Java · Javalin
-database:  PostgreSQL · MySQL · DynamoDB · Sequelize · Prisma
-cloud:     AWS (Lambda, API Gateway, Cognito, S3) · Railway · Docker
-payments:  MercadoPago · Melhor Envio
-other:     Git · Linux · Cloudinary · Framer Motion
-```
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,react,nextjs,tailwind,nodejs,express,nestjs,docker,postgres,mongodb,aws,prisma,git,linux,figma,vscode,jest,vercel,vite,styledcomponents,html,css" />
+</a>
+</div>
 
 ---
 
@@ -49,15 +59,4 @@ other:     Git · Linux · Cloudinary · Framer Motion
 
 ---
 
-### `> cat ./links.txt`
-
-```
-📧 luan.rebuli — contato via LinkedIn
-🔗 linkedin.com/in/luanrebuli
-🌐 maredecoracoesnautica.com.br
-🏄 uarapoint.com
-```
-
----
-
-<sub>_"Comecei aos 10 anos modando Minecraft em Java. Desde então, não parei."_</sub>
+<sub>_"A melhor sessão de surf é de manhã. O melhor código é depois do café."_</sub>
