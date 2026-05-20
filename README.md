@@ -1,26 +1,63 @@
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+```
+ _                          ____       _           _ _ 
+| |   _   _  __ _ _ __     |  _ \ ___ | |__  _   _| (_)
+| |  | | | |/ _` | '_ \   | |_) / _ \| '_ \| | | | | |
+| |__| |_| | (_| | | | |  |  _ <  __/| |_) | |_| | | |
+|____|\__,_|\__,_|_| |_|  |_| \_\___||_.__/ \__,_|_|_|
+```
 
-👋 Olá! Eu sou Luan de Sordi Rebuli
-Sou um desenvolvedor full stack apaixonado por programação desde cedo — comecei aos 10 anos explorando o mundo dos códigos com Minecraft em Java, e desde então a tecnologia se tornou meu caminho profissional.
+### `> whoami`
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan.rebuli/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-de-sordi-rebuli-8ab545219/)
+```
+🏄 Surfista & dev full stack de Pontal do Sul, PR
+🚀 Construo produtos reais — do deploy ao pagamento
+🎯 Foco: TypeScript, React, Node.js, AWS, PostgreSQL
+```
 
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,java,lua,css,html,react,next,vite,tailwind,nodejs,nextjs,express,next,docker,figma,github,jest,linux,postman,styledcomponents,vercel,mongodb,postgres," />
-</a>
-  <br />
+---
 
-  </div>
+### `> ls ./projects`
 
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  
+| Projeto | Status | O que é |
+|---------|--------|---------|
+| **[Maré Decorações Náuticas](https://maredecoracoesnautica.com.br)** | `🟢 LIVE` | E-commerce próprio de decoração náutica — Next.js, MercadoPago, Melhor Envio |
+| **[Uarapoint](https://uarapoint.com)** | `🟡 BETA` | PWA de previsão de surf para o litoral do Paraná com score proprietário |
+| **Corre** | `🔵 DEV` | SaaS de coaching de corrida com IA — NestJS, React Native, PostgreSQL |
 
-<br clear="both">
+---
 
+### `> cat ./stack.txt`
 
+```
+frontend:  React · Next.js · React Native · TypeScript · Tailwind CSS
+backend:   Node.js · Express · NestJS · Java · Javalin
+database:  PostgreSQL · MySQL · DynamoDB · Sequelize · Prisma
+cloud:     AWS (Lambda, API Gateway, Cognito, S3) · Railway · Docker
+payments:  MercadoPago · Melhor Envio
+other:     Git · Linux · Cloudinary · Framer Motion
+```
+
+---
+
+### `> neofetch`
+
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=LuanRebuli&theme=summer&pixelate_avatar=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=LuanRebuli&screen_effect=true&theme=blue_chill&pixelate_avatar=true">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LuanRebuli&theme=summer&pixelate_avatar=true">
+</picture>
+
+---
+
+### `> cat ./links.txt`
+
+```
+📧 luan.rebuli — contato via LinkedIn
+🔗 linkedin.com/in/luanrebuli
+🌐 maredecoracoesnautica.com.br
+🏄 uarapoint.com
+```
+
+---
+
+<sub>_"Comecei aos 10 anos modando Minecraft em Java. Desde então, não parei."_</sub>
