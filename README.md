@@ -1,23 +1,17 @@
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                    LUAN REBULI                               ║
-║                    Full Stack Developer                       ║
-║                    Pontal do Sul, PR                          ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  CLASS:     Full Stack Developer                             ║
-║  ORIGIN:    Pontal do Sul, PR                                ║
-║  STARTED:   Age 10 — modding Minecraft in Java               ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║  STATS                                                       ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║  Frontend   ████████████████████░░░░  85%                    ║
-║  Backend    ██████████████████░░░░░░  75%                    ║
-║  Cloud/Ops  ████████████░░░░░░░░░░░░  55%                    ║
-║  Mobile     ██████████░░░░░░░░░░░░░░  45%                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+ _                          ____       _           _ _ 
+| |   _   _  __ _ _ __     |  _ \ ___ | |__  _   _| (_)
+| |  | | | |/ _` | '_ \   | |_) / _ \| '_ \| | | | | |
+| |__| |_| | (_| | | | |  |  _ <  __/| |_) | |_| | | |
+|____|\__,_|\__,_|_| |_|  |_| \_\___||_.__/ \__,_|_|_|
+```
+
+### `> whoami`
+
+```
+dev full stack @ Pontal do Sul, PR
+construo produtos reais — do deploy ao processamento de pagamento
+comecei aos 10 modando Minecraft em Java. nunca parei.
 ```
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan.rebuli/)
@@ -25,27 +19,34 @@
 
 ---
 
-### `QUEST LOG`
+### `> ls ./projects`
 
+**[Mare Decoracoes Nauticas](https://maredecoracoesnautica.com.br)** — `[LIVE]`
 ```
-[ACTIVE]  Mare Decoracoes Nauticas ─── maredecoracoesnautica.com.br
-          E-commerce completo. Pagamentos reais, frete integrado,
-          painel admin com dashboards. Unico dev.
-          Next.js / Node.js / PostgreSQL / Cloudinary / Railway
+Plataforma e-commerce que construi do zero como unico desenvolvedor.
+Pagamentos reais (MercadoPago), frete integrado (Melhor Envio),
+painel admin com dashboards financeiros.
+stack: Next.js / Node.js / PostgreSQL / Cloudinary / Railway
+```
 
-[ACTIVE]  Uarapoint ─────────────── uarapoint.com
-          PWA de previsao de surf com Uara Score e IA adaptativa.
-          Escalando pro Brasil inteiro.
-          React / TypeScript / Node.js / PostgreSQL / Docker
+**[Uarapoint](https://uarapoint.com)** — `[BETA]`
+```
+PWA de previsao de surf com sistema de score proprietario (Uara Score)
+e IA adaptativa que aprende com as condicoes locais e feedback dos
+usuarios. Construi porque nenhuma ferramenta existente servia —
+agora escalando pro Brasil inteiro.
+stack: React / TypeScript / Node.js / PostgreSQL / Docker
+```
 
-[WIP]     Corre
-          SaaS de coaching de corrida com IA em portugues.
-          NestJS / React Native / Expo / PostgreSQL / Prisma / Redis
+**Corre** — `[DEV]`
+```
+SaaS de coaching de corrida com IA em portugues brasileiro.
+stack: NestJS / React Native / Expo / PostgreSQL / Prisma / Redis
 ```
 
 ---
 
-### `SKILL TREE`
+### `> cat ./stack.txt`
 
 <div align="center">
 <a href="https://skillicons.dev">
@@ -56,6 +57,5 @@
 ---
 
 ```
-> SAVE GAME... ✓
-> "melhor sessao eh de manha. melhor codigo vem depois do cafe."
+> echo "melhor queda é de manhã. melhor código vem depois do café."
 ```
