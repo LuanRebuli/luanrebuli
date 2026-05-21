@@ -58,11 +58,13 @@ stack: NestJS / React Native / Expo / PostgreSQL / Prisma / Redis
 
 ### `> neofetch`
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=LuanRebuli&theme=summer&pixelate_avatar=true">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=LuanRebuli&screen_effect=true&theme=crt">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LuanRebuli&theme=summer&pixelate_avatar=true">
-</picture>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuanRebuli&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanRebuli&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+
+</div>
 
 ---
 
