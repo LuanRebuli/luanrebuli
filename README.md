@@ -11,7 +11,7 @@
 ```
 dev full stack @ Pontal do Sul, PR
 construo produtos reais — do deploy ao processamento de pagamento
-comecei aos 10 fazendo plugin de Minecraft em Java. nunca parei.
+comecei aos 10 modando Minecraft em Java. nunca parei.
 ```
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan.rebuli/)
@@ -33,8 +33,8 @@ stack: Next.js / Node.js / PostgreSQL / Cloudinary / Railway
 ```
 PWA de previsao de surf com sistema de score proprietario (Uara Score)
 e IA adaptativa que aprende com as condicoes locais e feedback dos
-usuarios. Construi porque nenhuma ferramenta existente servia pras
-ondas que eu surfo — agora escalando pro Brasil inteiro.
+usuarios. Construi porque nenhuma ferramenta existente servia —
+agora escalando pro Brasil inteiro.
 stack: React / TypeScript / Node.js / PostgreSQL / Docker
 ```
 
@@ -60,7 +60,7 @@ stack: NestJS / React Native / Expo / PostgreSQL / Prisma / Redis
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=LuanRebuli&theme=summer&pixelate_avatar=true">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=LuanRebuli&screen_effect=true&theme=blue_chill&pixelate_avatar=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=LuanRebuli&screen_effect=true&theme=crt">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LuanRebuli&theme=summer&pixelate_avatar=true">
 </picture>
 
