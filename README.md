@@ -11,7 +11,7 @@
 ```
 dev full stack @ Pontal do Sul, PR
 construo produtos reais — do deploy ao processamento de pagamento
-comecei aos 10 modando Minecraft em Java. nunca parei.
+comecei aos 10 fazendo plugin de Minecraft em Java. nunca parei.
 ```
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan.rebuli/)
@@ -26,7 +26,7 @@ comecei aos 10 modando Minecraft em Java. nunca parei.
 Plataforma e-commerce que construi do zero como unico desenvolvedor.
 Pagamentos reais (MercadoPago), frete integrado (Melhor Envio),
 painel admin com dashboards financeiros.
-stack: Next.js / Node.js / PostgreSQL / Cloudinary / Railway
+stack: TypeScript / Next.js / Node.js / Express.js / PostgreSQL / Cloudinary / Railway
 ```
 
 **[Uarapoint](https://uarapoint.com)** — `[BETA]`
@@ -35,7 +35,7 @@ PWA de previsao de surf com sistema de score proprietario (Uara Score)
 e IA adaptativa que aprende com as condicoes locais e feedback dos
 usuarios. Construi porque nenhuma ferramenta existente servia —
 agora escalando pro Brasil inteiro.
-stack: React / TypeScript / Node.js / PostgreSQL / Docker
+stack: Next.js / React / TypeScript / Node.js / Fastify / PostgreSQL / Drizzle ORM / Docker
 ```
 
 **Corre** — `[DEV]`
@@ -71,5 +71,5 @@ stack: NestJS / React Native / Expo / PostgreSQL / Prisma / Redis
 ---
 
 ```
-> echo "melhor sessao é de manha. melhor codigo vem depois do cafe."
+> echo "melhor sessao é de manhã. melhor codigo vem depois do cafe."
 ```
