@@ -9,9 +9,9 @@
 ### `> whoami`
 
 ```
-full stack developer @ Pontal do Sul, PR
-building real products — from deploy to payment processing
-started at 10 modding Minecraft in Java. never stopped.
+dev full stack @ Pontal do Sul, PR
+construo produtos reais — do deploy ao processamento de pagamento
+comecei aos 10 fazendo plugin de Minecraft em Java. nunca parei.
 ```
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan.rebuli/)
@@ -21,26 +21,26 @@ started at 10 modding Minecraft in Java. never stopped.
 
 ### `> ls ./projects`
 
-**[Maré Decorações Náuticas](https://maredecoracoesnautica.com.br)** — `[LIVE]`
+**[Mare Decoracoes Nauticas](https://maredecoracoesnautica.com.br)** — `[LIVE]`
 ```
-E-commerce platform I built end-to-end as the sole developer.
-Real payments (MercadoPago), integrated shipping (Melhor Envio),
-admin panel with financial dashboards.
+Plataforma e-commerce que construi do zero como unico desenvolvedor.
+Pagamentos reais (MercadoPago), frete integrado (Melhor Envio),
+painel admin com dashboards financeiros.
 stack: Next.js / Node.js / PostgreSQL / Cloudinary / Railway
 ```
 
 **[Uarapoint](https://uarapoint.com)** — `[BETA]`
 ```
-Surf forecast PWA with a proprietary scoring system (Uara Score™).
-Phase 2: AI-powered adaptive scoring that learns from local
-conditions and user feedback. Built it because no existing tool
-works for the breaks I surf — now scaling to the full coast.
+PWA de previsao de surf com sistema de score proprietario (Uara Score)
+e IA adaptativa que aprende com as condicoes locais e feedback dos
+usuarios. Construi porque nenhuma ferramenta existente servia pras
+ondas que eu surfo — agora escalando pro Brasil inteiro.
 stack: React / TypeScript / Node.js / PostgreSQL / Docker
 ```
 
 **Corre** — `[DEV]`
 ```
-AI running coach SaaS in Brazilian Portuguese.
+SaaS de coaching de corrida com IA em portugues brasileiro.
 stack: NestJS / React Native / Expo / PostgreSQL / Prisma / Redis
 ```
 
@@ -67,5 +67,5 @@ stack: NestJS / React Native / Expo / PostgreSQL / Prisma / Redis
 ---
 
 ```
-> echo "best waves are in the morning. best code comes after coffee."
+> echo "melhor sessao eh de manha. melhor codigo vem depois do cafe."
 ```
