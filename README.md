@@ -56,6 +56,20 @@ stack: NestJS / React Native / Expo / PostgreSQL / Prisma / Redis
 
 ---
 
+### `> git log --oneline --stat`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuanRebuli&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanRebuli&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuanRebuli&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ```
-> echo "melhor queda é de manhã. melhor código vem depois do café."
+> echo "melhor sessao é de manha. melhor codigo vem depois do cafe."
 ```
