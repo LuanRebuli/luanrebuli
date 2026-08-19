@@ -29,7 +29,7 @@ painel admin com dashboards financeiros.
 stack: TypeScript / Next.js / Node.js / Express.js / PostgreSQL / Cloudinary / Railway
 ```
 
-**[Uarapoint](https://uarapoint.com)** — `[BETA]`
+**[Uarapoint](https://uarapoint.com)** — `[LIVE]`
 ```
 PWA de previsao de surf com sistema de score proprietario (Uara Score)
 e IA adaptativa que aprende com as condicoes locais e feedback dos
@@ -38,7 +38,7 @@ agora escalando pro Brasil inteiro.
 stack: Next.js / React / TypeScript / Node.js / Fastify / PostgreSQL / Drizzle ORM / Docker
 ```
 
-**Corre** — `[DEV]`
+**Corre** — `[DESENVOLVIMENTO]`
 ```
 SaaS de coaching de corrida com IA em portugues brasileiro.
 stack: NestJS / React Native / Expo / PostgreSQL / Prisma / Redis
